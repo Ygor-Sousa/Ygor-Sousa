@@ -68,7 +68,7 @@
 
 ---
 
-⭐ Sempre construindo. Sempre evoluindo.
+Sempre construindo e evoluindo.
 
 
 
