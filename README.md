@@ -4,18 +4,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 💻 Desenvolvedor Backend com mais de 3 anos de experiência
-- 🧠 Foco em Python (Flask e FastAPI), Arquitetura Web e Design de Sistemas
-- 🗄️ Conhecimento sólido em MySQL (modelagem relacional, queries complexas, otimização e indexação)
-- ⚡ Experiência com sistemas em tempo real (WebSocket, Redis)
-- 🐳 Ambientes containerizados com Docker
-- 🤖 Atualmente estudando LLMs, IA Generativa e fundamentos de Machine Learning
+-  Desenvolvedor Backend com mais de 3 anos de experiência
+-  Foco em Python (Flask e FastAPI), Arquitetura Web e Design de Sistemas
+-  Conhecimento sólido em MySQL (modelagem relacional, queries complexas, otimização e indexação)
+-  Experiência com sistemas em tempo real (WebSocket, Redis)
+-  Ambientes containerizados com Docker
+-  Atualmente estudando LLMs, IA Generativa e fundamentos de Machine Learning
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Backend
 - Python (Flask, FastAPI)
@@ -51,20 +51,20 @@
 
 ---
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
-🚀 Sistema Kanban em Tempo Real  
-📊 Sistema ERP Web  
-📄 Plataforma de Processamento de PDFs  
-📲 SaaS de Cobrança via WhatsApp  
-🗄️ API de Automação SQL  
+ Sistema Kanban em Tempo Real  
+ Sistema ERP Web  
+ Plataforma de Processamento de PDFs  
+ SaaS de Cobrança via WhatsApp  
+ API de Automação SQL  
 
 ---
 
-## 📫 Contato
+## Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/ygor-santos-2072521a2/  
-📧 Email: ygorpsousadev@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ygor-santos-2072521a2/  
+Email: ygorpsousadev@gmail.com  
 
 ---
 
