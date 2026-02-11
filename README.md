@@ -1,5 +1,6 @@
-<h1 align="center">👋 Olá, eu sou Ygor Sousa</h1>
-<h3 align="center">Desenvolvedor Backend | Python | JavaScript | MySQL | Explorando soluções com IA e LLMs aplicadas a sistemas reais</h3>
+<h1>Ygor Sousa</h1>
+<h3>São Paulo, SP – Brasil</h3>
+<h3>Desenvolvedor Backend | Python | JavaScript | MySQL | Explorando soluções com IA e LLMs aplicadas a sistemas reais</h3>
 
 ---
 
